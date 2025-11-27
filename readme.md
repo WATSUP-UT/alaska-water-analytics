@@ -3,7 +3,7 @@
 This repository contains the source code and analysis scripts associated with the research paper:
 
 **Transforming Unused Data into Actionable Insights for Enhanced Water Operations in Remote Alaska**  
-_R. Cantrell, H. Ghamkhar, L. Sela_
+_R. Cantrell, H. Ghamkhar, G. Perelman, L. Sela_
 
 The codebase provides a suite of tools for transforming high‑resolution sensor data from small, remote Alaskan community water systems into directly actionable insights for operators. Methods are designed for **resource‑constrained utilities** and are integrated into an interactive Streamlit dashboard to support day‑to‑day decision making.
 
@@ -57,7 +57,7 @@ The methods are demonstrated primarily on the Unalakleet water system and then s
 | `backwash.py`             | Detects and quantifies backwash events using CUSUM on tank level changes and a mass‑balance calculation of backwash volumes.        |
 | `sustainability_metrics.py` | Computes Reliability, Resiliency, and Vulnerability indices for tank level time series (per community, per analysis period).      |
 | `requirements.txt`        | Python dependencies required to run the analysis and dashboard.                                                                      |
-| [Dashboard](https://hanighamkhar-alaska-dashboard-main-yksxm3.streamlit.app/)| Streamlit dashboard that integrates all methods for interactive exploration by operators and remote technical support.      |
+| [Dashboard](https://alaska-water-analytics.streamlit.app/)| Streamlit dashboard that integrates all methods for interactive exploration by operators and remote technical support.      |
 
 
 ---
@@ -152,7 +152,7 @@ If you use this code or data in your work, please cite the associated paper:
 ```bibtex
 @article{Cantrell2025UnusedData,
   title  = {Transforming Unused Data into Actionable Insights for Enhanced Water Operations in Remote Alaska},
-  author = {Cantrell, Rebecca and Ghamkhar, Hani and Sela, Lina},
+  author = {Cantrell, Rebecca and Ghamkhar, Hani and Perelman, Gal and Sela, Lina},
   year   = {2025},
   url    = {to_BE_ADDED},
   note   = {Manuscript in preparation}
@@ -164,4 +164,5 @@ If you use this code or data in your work, please cite the associated paper:
 ## License
 
 This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
+
 
