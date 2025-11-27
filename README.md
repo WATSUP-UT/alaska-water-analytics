@@ -3,7 +3,7 @@
 This repository contains the source code and analysis scripts associated with the research paper:
 
 **Transforming Unused Data into Actionable Insights for Enhanced Water Operations in Remote Alaska**  
-_R. Cantrell, H. Ghamkhar, L. Sela_
+_R. Cantrell, H. Ghamkhar, G. Perelman, L. Sela_
 
 The codebase provides a suite of tools for transforming high‑resolution sensor data from small, remote Alaskan community water systems into directly actionable insights for operators. Methods are designed for **resource‑constrained utilities** and are integrated into an interactive Streamlit dashboard to support day‑to‑day decision making.
 
