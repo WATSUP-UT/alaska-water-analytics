@@ -152,7 +152,7 @@ If you use this code or data in your work, please cite the associated paper:
 ```bibtex
 @article{Cantrell2025UnusedData,
   title  = {Transforming Unused Data into Actionable Insights for Enhanced Water Operations in Remote Alaska},
-  author = {Cantrell, Rebecca and Ghamkhar, Hani and Perelman, Gal and Sela, Lina},
+  author = {R. Cantrell, H. Ghamkhar, G. Perelman, and L. Sela},
   year   = {2025},
   url    = {to_BE_ADDED},
   note   = {Manuscript in preparation}
